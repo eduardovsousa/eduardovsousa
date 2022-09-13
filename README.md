@@ -3,7 +3,7 @@
 
 - 🎯 Atualmente estou em desenvolvimento para ser um programador Full Stack
 - 📚 Cursando Sistemas de Informação (4º semestre) pela FIAP
-- 👨‍💻 Estudando Typescript
+- 👨‍💻 Estudando e focando em Typescript, React, React Native e NodeJS
 
 
 <div align="center">
