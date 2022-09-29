@@ -1,9 +1,9 @@
-### Olá! Me chamo Eduardo Varela!
+### 🖐🏽 Olá! Me chamo Eduardo Varela!
 ### Seguem algumas informações sobre mim:
 
 - 🎯 Atualmente estou em desenvolvimento para ser um programador Full Stack
-- 📚 Cursando Sistemas de Informação (4º semestre) pela FIAP
-- 👨‍💻 Estudando e focando em Typescript, React, React Native e NodeJS
+- 📚 Cursando Sistemas de Informação (4º semestre) pela [FIAP](https://www.fiap.com.br/).
+- 👨‍💻 Estudando com o focando em Typescript, React e NodeJS
 
 
 <div align="center">
