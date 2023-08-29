@@ -2,7 +2,7 @@
 ### Seguem algumas informações sobre mim:
 - 🌐 [Meu portfólio](https://evsdeveloper.vercel.app/).
 - 👨🏽‍💻 Atualmente estou trabalhando como desenvolvedor Full Stack.
-- 📚 Cursando Sistemas de Informação (5º semestre) pela [FIAP](https://www.fiap.com.br/).
+- 📚 Cursando Sistemas de Informação (6º semestre) pela [FIAP](https://www.fiap.com.br/).
 - 🎯 Em constante desenvolvimento, com o foco voltado para TypeScript, React e Node.js.
 
 
