@@ -1,43 +1,20 @@
-### 🖐🏽 Olá! Me chamo Eduardo Varela!
-### Seguem algumas informações sobre mim:
-- 🌐 [Meu portfólio](https://evsdeveloper.vercel.app/).
-- 👨🏽‍💻 Atualmente estou trabalhando como desenvolvedor Full Stack.
-- 📚 Formado em Sistemas de Informação pela [FIAP](https://www.fiap.com.br/).
-- 🎯 Em constante desenvolvimento, com o foco voltado para TypeScript, React e Node.js.
+### $ whoami
 
+From debugging Santander's mobile banking app as a QA automation engineer to building and modernizing campaign management platforms as a Full Stack Developer, I've spent the past 3+ years turning business problems into production code — across real estate, fintech, and marketing platforms in Brazil.
 
-<div align="center">
-  <a href="https://github.com/eduardovsousa">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardovsousa&show_icons=true&theme=dark&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardovsousa&layout=compact&langs_count=7&theme=dark"/>
-</div>
+I care about clean architecture, SOLID principles, and systems built to scale — not just to ship fast. One of the things I'm proudest of: designing a parallel-processing pipeline that cut processing time for 1M+ records from ~7 hours down to 20 minutes, running on Go and AWS.
 
+I spend a lot of my free time studying serverless and cloud-native architecture in depth, and I've been leaning hard into AI-assisted engineering — building with agents, custom skills, and AI-assisted workflows as part of how I actually write and ship software day to day, not just as a novelty.
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Nextjs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" />
-  <img align="center" alt="NodeJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img align="center" alt="Express" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
-  <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Mongodb" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg" />
-  <img align="center" alt="Tailwindcss" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg">
-  <img align="center" alt="Bootstrap" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-          
+🛠 What I'm working on
+- Modernizing legacy campaign management platforms
+- Serverless and cloud-native architecture on AWS
+- Large-scale parallel data processing
+- AI-assisted engineering workflows
+- Clean architecture and scalable backend systems
 
-</div>
-  
-  ##
- 
-<div> 
-  <a href="https://www.linkedin.com/in/eduardovsousa" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:eduardo.varela@outlook.com.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://instagram.com/dusousa_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+📫 How to reach me:
 
- 
-  ![Snake animation](https://github.com/eduardovsousa/eduardovsousa/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+🌐 [Portfolio](https://www.evsdeveloper.com.br/en-US)  
+💼 [LinkedIn](https://www.linkedin.com/in/eduardovsousa/)  
+📧 [Email](mailto:eduardo.varela@outlook.com.br)
