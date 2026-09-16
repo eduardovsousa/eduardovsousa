@@ -1,6 +1,6 @@
 ### $ whoami
 
-From debugging Santander's mobile banking app as a QA automation engineer to building and modernizing campaign management platforms as a Full Stack Developer, I've spent the past 3+ years turning business problems into production code — across real estate, fintech, and marketing platforms in Brazil.
+From debugging Santander's mobile banking app as a QA automation engineer to building and modernizing campaign management platforms as a Full Stack Developer, I've spent the past 3+ years turning business problems into production code — across real estate, fintech, and marketing platforms.
 
 I care about clean architecture, SOLID principles, and systems built to scale — not just to ship fast. One of the things I'm proudest of: designing a parallel-processing pipeline that cut processing time for 1M+ records from ~7 hours down to 20 minutes, running on Go and AWS.
 
